@@ -1,0 +1,4 @@
+"0","fna.data <- ""WisconsinCancer.csv"""
+"0","wisc.df <- read.csv(fna.data)"
+"0","wisc.data <- as.matrix(wisc.df[, 3:32])"
+"0","row.names(wisc.data) <- wisc.df$id"

@@ -1,0 +1,2 @@
+"0","wisc.pr <- prcomp(wisc.data, scale = TRUE)"
+"0","plot(wisc.pr$x[,1], wisc.pr$x[,2], col = diagnosis + 1)"

@@ -1,0 +1,4 @@
+"0","par(mfcol = c(1,2))"
+"0","plot(pve, xlab = ""Principal Component"", "
+"0","     ylab = ""Proportion of Variance Explained"", "
+"0","     ylim = c(0, 100), type = ""o"")"
